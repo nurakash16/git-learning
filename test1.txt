@@ -5,4 +5,3 @@ I live in Dhaka
 More info added like i am now able to push updated file by comit directly from git to github
 
 
-now this file will a version of localrepo, that will be commited on remote github repo by command 
